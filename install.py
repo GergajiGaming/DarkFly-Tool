@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
+Author             : GergajiGaming
+contact.          :ahmadalaidin@gmail.com
 Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+my youtube channel : GergajiGaming
 
 subcribe my youtube Channel to learn ethical Hacking ^_^
 """
